@@ -1,6 +1,6 @@
 {
-  "name": "ShoppyGlobe",
-  "description": "A basic e-commerce application built with React and Vite, featuring product listing, detailed views, cart management with Redux, dynamic routing, and responsive design. Implements data fetching with hooks and performance optimization with lazy loading",
+  "name": "shoppyglobe",
+  "description": "E-commerce application built with React and Vite featuring product listing, cart management, dynamic routing, hooks and lazy loading.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
