@@ -1,6 +1,10 @@
 ShoppyGlobe - React E-commerce Application
 ShoppyGlobe is a basic yet feature-rich e-commerce web application built with React using Vite as the project setup tool. It demonstrates the complete flow of an online store with product listing, detailed views, cart management, checkout, and routing, all implemented with modern React best practices.
 
+# Links:
+Source code link: (https://github.com/kavish055/ShoppyGlobe-E-commerce-Application.git)
+Live Link: (https://shoppyglobe-e-commerce-application.ashar-kavish.info/)
+
 Key Features
 Component-Based Architecture: Modular and reusable components including Header, ProductList, ProductItem, ProductDetail, Cart, CartItem, and NotFound.
 
