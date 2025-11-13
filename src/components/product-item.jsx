@@ -9,7 +9,7 @@ const ProductItem = ({ product, navigate }) => {
       e.stopPropagation();
       dispatch({ type: 'ADD_TO_CART', payload: product });
     };
-  
+    
     return (
       <div
         onClick={() => navigate(`/product/${product.id}`)}
